@@ -1,0 +1,104 @@
+body{
+    background-color: black;
+    width: 100%;
+    margin: 40px 10%;
+    justify-content: center;
+}
+
+
+
+.container{
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(20, 20, 20, 0.705);
+    border-radius: 25px;
+}
+
+.fotomodelo {
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.fotomodelo img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 25px;
+    box-shadow: purple 10px 10px 10px 5px;
+    border: 1px solid rgb(243, 0, 243);
+}
+
+.caixa2{
+    width: 300px;
+    
+}
+
+.caixa2  h1{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+.caixa2  p{
+    color: white;
+    margin-bottom: 50px;
+    font-size: 19px;
+}
+
+.caixa2  h2{
+    color: white;
+}
+
+/* container2 */
+
+.container2{
+    width: 80%;
+    height: auto;
+    display: flex;
+    margin-bottom: 40px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+    background-color: rgba(20, 20, 20, 0.705);
+    border-radius: 25px;
+}
+
+.container2 .fotomodelo {
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container2 .fotomodelo img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 25px;
+    box-shadow: purple 10px 10px 10px 5px;
+    border: 1px solid rgb(243, 0, 243);
+}
+
+.container2 .caixa2{
+    width: 300px;
+    
+}
+
+.container2 .caixa2  h1{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+.container2 .caixa2  p{
+    color: white;
+    margin-bottom: 50px;
+    font-size: 19px;
+}
+
+.container2 .caixa2  h2{
+    color: white;
+}
